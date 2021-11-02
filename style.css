@@ -1,0 +1,27 @@
+
+.container{
+    align-items: center;
+    margin: 0 auto;
+    width: 240px;
+}
+.container input{
+    width: 222px;
+    height: 48px;
+    background: #fff;
+    border: 1px solid #ECEBED;
+    border-radius: 6px;
+    color: #D0C9D6;
+    padding-left: 16px;
+
+}
+.button{
+    width: 240px;
+    height: 48px;
+    border: none;
+    background: #6979F8;
+    border-radius: 6px;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+}
